@@ -1,14 +1,14 @@
 {
   "about": "This file is used by Web UI to show the index of available extensions. It's in JSON format and is not meant to be viewed by users directly. If you edit the file you must ensure that it's still a valid JSON.",
   "tags": {
-    "script": "a general extension that adds functionality",
+    "script": "簡単な機能を追加する拡張機能",
     "localization": "言語パック用の拡張機能",
     "tab": "タブを追加する拡張機能",
     "installed": "インストール済みの拡張機能",
-    "training": "新手法の学習やその支援、および/またはそれらの関連する拡張機能",
-    "models": "変換やマージ関連する拡張機能",
+    "training": "新手法の学習やその支援、またはそれらに関連する拡張機能",
+    "models": "変換やマージに関連する拡張機能",
     "UI related": "UIや操作性を向上する拡張機能",
-    "integrations": "拡張機能やAPI、新しいモデルをワーク"
+    "integrations": "拡張機能やAPI、その他のMLモデルで、ワークフローと連動/整合する拡張機能"
   },
   "extensions": [
     {
@@ -24,6 +24,13 @@
       "description": "バイリンガル対応拡張機能",
       "added": "2023-03-03",
       "tags": ["localization"]
+    },
+    {
+      "name": "sd-webui-blip2",
+      "url": "https://github.com/Tps-F/sd-webui-blip2",
+      "description": "blip2で画像のキャプションを生成",
+      "added": "2023-03-03",
+      "tags": ["training"]
     }
   ]
 }
