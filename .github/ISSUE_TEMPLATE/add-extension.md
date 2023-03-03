@@ -2,7 +2,7 @@
 name: add Extension
 about: 拡張機能を追加する
 title: 拡張機能をリストへ追加
-labels: ''
+labels: extension
 assignees: Katsuyuki-Karasawa
 
 ---
