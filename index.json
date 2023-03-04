@@ -16,21 +16,54 @@
       "url": "https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP",
       "description": "日本語用言語パック",
       "added": "2023-03-03",
-      "tags": ["localization"]
+      "tags": [
+        "localization"
+      ]
     },
     {
       "name": "sd-webui-bilingual-localization",
       "url": "https://github.com/journey-ad/sd-webui-bilingual-localization",
       "description": "バイリンガル対応拡張機能",
       "added": "2023-03-03",
-      "tags": ["localization"]
+      "tags": [
+        "localization"
+      ]
     },
     {
       "name": "sd-webui-blip2",
       "url": "https://github.com/Tps-F/sd-webui-blip2",
       "description": "blip2で画像のキャプションを生成",
       "added": "2023-03-03",
-      "tags": ["training"]
+      "tags": [
+        "training"
+      ]
+    },
+    {
+      "name": "kohya-sd-scripts-webui",
+      "url": "https://github.com/ddPn08/kohya-sd-scripts-webui",
+      "description": "kohyaさんのsd-scriptsをそのままUIにしたものです",
+      "added": "2023-03-04",
+      "tags": [
+        "tab"
+      ]
+    },
+    {
+      "name": "sd-webui-prompt-translator",
+      "url": "https://github.com/ddPn08/sd-webui-prompt-translator",
+      "description": "WebUIで簡単に翻訳ができる拡張機能です。",
+      "added": "2023-03-04",
+      "tags": [
+        "script"
+      ]
+    },
+    {
+      "name": "Stable Diffusion WebUI Cafe Aesthetic",
+      "url": "https://github.com/p1atdev/stable-diffusion-webui-cafe-aesthetic",
+      "description": "美的評価やスタイルで画像を分類できる拡張機能",
+      "added": "2023/03/04",
+      "tags": [
+        "tab"
+      ]
     }
   ]
 }
