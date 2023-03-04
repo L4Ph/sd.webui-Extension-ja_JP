@@ -64,6 +64,143 @@
       "tags": [
         "tab"
       ]
+    },
+    {
+      "name": "ja_JP Localization",
+      "url": "https://github.com/Katsuyuki-Karasawa/stable-diffusion-webui-localization-ja_JP",
+      "description": "日本語用言語パック",
+      "added": "2023-03-03",
+      "tags": [
+        "localization"
+      ]
+    },
+    {
+      "name": "kohya-sd-scripts-webui",
+      "url": "https://github.com/ddPn08/kohya-sd-scripts-webui",
+      "description": "kohyaさんのsd-scriptsをそのままUIにしたものです",
+      "added": "2023-03-04",
+      "tags": [
+        "tab"
+      ]
+    },
+    {
+      "name": "merge-percentage-visualize",
+      "url": "https://github.com/bbc-mc/merge-percentage-visualize",
+      "description": "モデルA/Bの割合を可視化",
+      "added": "2023-03-05",
+      "tags": [
+        "script"
+      ]
+    },
+    {
+      "name": "sd_copyguard",
+      "url": "https://github.com/aka7774/sd_copyguard",
+      "description": "3回同じテキストが来た際に、コピーを防止",
+      "added": "2023-03-05",
+      "tags": [
+        "script"
+      ]
+    },
+    {
+      "name": "sd_lama_cleaner",
+      "url": "https://github.com/aka7774/sd_lama_cleaner",
+      "description": "Lama Cleanerのタブを追加",
+      "added": "2023-03-05",
+      "tags": [
+        "tab"
+      ]
+    },
+    {
+      "name": "sd_webui_runtime_ensembling",
+      "url": "https://github.com/ashen-sensored/sd_webui_runtime_ensembling",
+      "description": "Stable Diffusion runtime ensembling PoCの拡張機能",
+      "added": "2023-03-05",
+      "tags": [
+        "script",
+        "training",
+        "models"
+      ]
+    },
+    {
+      "name": "sd-webui-bilingual-localization",
+      "url": "https://github.com/journey-ad/sd-webui-bilingual-localization",
+      "description": "バイリンガル対応拡張機能",
+      "added": "2023-03-03",
+      "tags": [
+        "localization"
+      ]
+    },
+    {
+      "name": "sd-webui-blip2",
+      "url": "https://github.com/Tps-F/sd-webui-blip2",
+      "description": "blip2で画像のキャプションを生成",
+      "added": "2023-03-03",
+      "tags": [
+        "training"
+      ]
+    },
+    {
+      "name": "sd-webui-prompt-translator",
+      "url": "https://github.com/ddPn08/sd-webui-prompt-translator",
+      "description": "WebUIで簡単に翻訳ができる拡張機能です。",
+      "added": "2023-03-04",
+      "tags": [
+        "script"
+      ]
+    },
+    {
+      "name": "sdweb-eagle-pnginfo",
+      "url": "https://github.com/bbc-mc/sdweb-eagle-pnginfo",
+      "description": "生成した画像を生成情報を含めてPCで動いているEagleへ転送/登録",
+      "added": "2023-03-05",
+      "tags": [
+        "script"
+      ]
+    },
+    {
+      "name": "sdweb-eagle-transfer",
+      "url": "https://github.com/bbc-mc/sdweb-eagle-transfer",
+      "description": "過去に生成した画像を生成情報を含めてPCで動いているEagleへ転送/登録",
+      "added": "2023-03-05",
+      "tags": [
+        "script"
+      ]
+    },
+    {
+      "name": "sdweb-easy-prompt-selector",
+      "url": "https://github.com/blue-pen5805/sdweb-easy-prompt-selector",
+      "description": "ボタン押してプロンプトの単語を入力",
+      "added": "2023-03-05",
+      "tags": [
+        "script"
+      ]
+    },
+    {
+      "name": "Stable Diffusion WebUI Cafe Aesthetic",
+      "url": "https://github.com/p1atdev/stable-diffusion-webui-cafe-aesthetic",
+      "description": "美的評価やスタイルで画像を分類できる拡張機能",
+      "added": "2023/03/04",
+      "tags": [
+        "tab"
+      ]
+    },
+    {
+      "name": "stable-diffusion-webui-model-toolkit",
+      "url": "https://github.com/arenatemp/stable-diffusion-webui-model-toolkit",
+      "description": "モデルを管理/編集/作成するための多目的ツール群",
+      "added": "2023-03-05",
+      "tags": [
+        "models"
+      ]
+    },
+    {
+      "name": "Stable-Diffusion-Webui-Prompt-Translator",
+      "url": "https://github.com/butaixianran/Stable-Diffusion-Webui-Prompt-Translator",
+      "description": "プロンプトの単語を英語へ翻訳する",
+      "added": "2023-03-05",
+      "tags": [
+        "script"
+      ]
     }
   ]
 }
