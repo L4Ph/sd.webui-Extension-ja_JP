@@ -1,7 +1,7 @@
 ---
 name: add Extension
 about: 拡張機能を追加する
-title: 拡張機能をリストへ追加
+title: 拡張機能の名称
 labels: extension
 assignees: Katsuyuki-Karasawa
 
@@ -29,3 +29,6 @@ assignees: Katsuyuki-Karasawa
 - `"description"` 拡張機能の簡単な説明  
 - `"added"` yyyy-MM-ddの形式でissueをpostした際の日付  
 - `"tags"` [index.js](https://github.com/Katsuyuki-Karasawa/sd.webui-Extension-ja_JP/blob/main/index.json)を参照してください
+
+issueのタイトルを、拡張機能の名称(`"name"`)と同一にしてください。
+拡張機能の検索も兼ねています。複数ある場合はどれか1つで構いません。
