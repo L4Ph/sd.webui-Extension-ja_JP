@@ -201,6 +201,16 @@
       "tags": [
         "script"
       ]
+    },
+    {
+      "name": "Stable-Diffusion-Webui-Prompt-Translator",
+      "url": "https://github.com/fkunn1326/openpose-editor",
+      "description": "stable-diffusion-webui向けOpenpose Editor",
+      "added": "2023-03-06",
+      "tags": [
+        "tab",
+        "integrations"
+      ]
     }
   ]
 }
