@@ -221,7 +221,7 @@
         "script",
         "integrations"
       ]
-    }
+    },
     {
       "name": "stable-diffusion-webui-laion-aesthetic",
       "url": "https://github.com/p1atdev/stable-diffusion-webui-laion-aesthetic",
