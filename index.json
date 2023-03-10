@@ -222,5 +222,14 @@
         "integrations"
       ]
     }
+    {
+      "name": "stable-diffusion-webui-laion-aesthetic",
+      "url": "https://github.com/p1atdev/stable-diffusion-webui-laion-aesthetic",
+      "description": "LAION Aesthetic v2の評価をwebuiで行う",
+      "added": "2023-03-10",
+      "tags": [
+        "tab"
+      ]
+    }
   ]
 }
