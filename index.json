@@ -211,6 +211,16 @@
         "tab",
         "integrations"
       ]
+    },
+    {
+      "name": "sd_civitai_extension",
+      "url": "https://github.com/civitai/sd_civitai_extension",
+      "description": "CivitAIにアップロードされているモデルをwebuiに転送",
+      "added": "2023-03-10",
+      "tags": [
+        "script",
+        "integrations"
+      ]
     }
   ]
 }
